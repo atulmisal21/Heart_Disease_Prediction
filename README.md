@@ -7,7 +7,11 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 Machine Learning algorithms used:
 1)Logistic Regression (Scikit-learn)
+
 2)K-Nearest Neighbours (Scikit-learn)
+
 3)Decision Tree (Scikit-learn)
+
 4)Random Forest (Scikit-learn)
+
 5)Accuracy achieved: 86% (KNN-alogorithm)
